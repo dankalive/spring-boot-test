@@ -1,0 +1,7 @@
+Criar uma API RestFull para controle de produtos
+
+    Modelo de negócio:
+        Produto: id, nome, quantidade, valor, observação
+
+    Repositório de produto.
+        obterTodos, obterPorId, insert, update, delete
